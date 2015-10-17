@@ -8,7 +8,12 @@ import Memory.Context;
 public class Main {
 
     /**
-     * @param args the command line arguments
+     * Proyecto Memory 
+     * Integrantes:
+     *      -Miguel Angel Campos
+     *      -Efrain Perez
+     *      -Jonathan Amaya
+     *      -Ulises Madero 
      */
     public static void main(String[] args) {
         Context g = new Context();
