@@ -5,10 +5,12 @@
  */
 package Memory;
 
+import javax.swing.JLabel;
+
 /**
  *
  * @author Miguel
  */
-public class Tab {
+public class Tab extends JLabel{
     
 }
